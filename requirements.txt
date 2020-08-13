@@ -1,0 +1,9 @@
+scipy
+numpy
+pathlib
+pandas
+gunicorn
+plotly
+dash
+dash_daq
+dash_table
